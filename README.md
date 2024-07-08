@@ -1,12 +1,12 @@
 # Resume Dataset
 
-# About Dataset
+## About Dataset
 
-## Context
+### Context
 
 A collection of Resume Examples taken from livecareer.com for categorizing a given resume into any of the labels defined in the dataset.
 
-## Content
+### Content
 
 Contains 2400+ Resumes in string as well as PDF format.
 PDF stored in the data folder differentiated into their respective labels as folders with each resume residing inside the folder in pdf form with filename as the id defined in the csv.
@@ -17,10 +17,10 @@ Inside the CSV:
  - Resume_html: Contains the resume data in html format as present while web scrapping.
  - Category: Category of the job the resume was used to apply.
 
-## Present categories are
+### Present categories are
 
 HR, Designer, Information-Technology, Teacher, Advocate, Business-Development, Healthcare, Fitness, Agriculture, BPO, Sales, Consultant, Digital-Media, Automobile, Chef, Finance, Apparel, Engineering, Accountant, Construction, Public-Relations, Banking, Arts, Aviation
 
-## Acknowledgements
+### Acknowledgements
 
 Data was obtained by scrapping individual resume examples from www.livecareer.com website. Web Scrapping code present in my [Github Repo](https://github.com/Sbhawal/resumeScraper).

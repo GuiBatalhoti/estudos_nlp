@@ -1,0 +1,11 @@
+channels:
+  - defaults
+dependencies:
+  - python=3.11.4
+  - matplotlib
+  - numpy
+  - pandas
+  - plotly
+  - seaborn
+  - spacy
+  - conda-forge::pdfminer.six
